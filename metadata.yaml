@@ -1,0 +1,38 @@
+_repo: The-Jack-Knife-Man_44150
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Booth, Hanson
+    birthdate: 1885
+    deathdate: 1944
+    gutenberg_agent_id: '8427'
+    url: http://www.gutenberg.org/2009/agents/8427
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Ellis Parker
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '585'
+    url: http://www.gutenberg.org/2009/agents/585
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
+description: ''
+gutenberg_issued: '2013-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'River boats -- Fiction'
+title: The Jack-Knife Man
+url: http://www.gutenberg.org/ebooks/44150
